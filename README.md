@@ -22,4 +22,4 @@ Source: SuperStore Sales Dataset
 
 Screenshots / Demos:
 
-![Dashboard Preview].(https://github.com/JithinJohny12/Sales-Dashboard/blob/main/Sales.png)
+![Dashboard Preview](https://github.com/JithinJohny12/Sales-Dashboard/blob/main/Sales.png)
